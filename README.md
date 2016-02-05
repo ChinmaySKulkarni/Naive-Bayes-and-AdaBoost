@@ -1,2 +1,2 @@
 # Naive-Bayes-and-AdaBoost
-Implementation of Nai\"ve Bayes with and without AdaBoost. Done in Python.
+Implementation of Naive Bayes with and without AdaBoost. Done in Python.
